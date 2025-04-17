@@ -1,0 +1,22 @@
+# Node (backend & web)
+**/node_modules/
+**/dist/
+**/.next/
+**/.turbo/
+**/coverage/
+
+# Flutter (mobile)
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.packages
+
+# Env files (add your real .env files to .env.example)
+**/.env
+
+# IDE
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
